@@ -8,7 +8,7 @@
 - Tanveer 752
 - Calvin
 - Patricia
-- 
+- Susan
 
 ## Project Overview
 

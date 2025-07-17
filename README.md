@@ -8,7 +8,7 @@
 - Tanveer 752
 - Calvin
 - Patricia
-- Susan
+- 
 
 ## Project Overview
 
@@ -31,7 +31,16 @@ This project simulates supermarket transaction data and analyzes frequent itemse
 ## How to Run
 
 1. Clone this repository
-2. Install required packages: `pip install pandas mlxtend`
+```bash
+git clone <https://github.com/TanveerD1/frequent-item-set-group-10.git>
+```
+2. Install required packages: 
+```bash
+pip install pandas mlxtend
+```
+   - Ensure you have Jupyter Notebook installed
+   - If not, install it using: `pip install jupyter`
+
 3. Run the Jupyter notebook: `jupyter notebook frequent_itemsets_analysis.ipynb`
 
 ## Example Insights

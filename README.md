@@ -5,10 +5,12 @@
 
 ## Group Members
 
-- Tanveer 752
-- Calvin
-- Patricia
-- 
+- Tanveer Omar
+- Calvin Gacheru
+- Patricia Kiarie
+- Suezzane
+- Arlen
+- Samantha Masaki
 
 ## Project Overview
 
@@ -54,3 +56,7 @@ From our analysis, we found:
 - **Maximal Itemset Example**: {Chicken, Rice, Vegetables} with support 0.06
   - No larger combination including these items meets our support threshold
   - This represents the largest meaningful combination for this support level
+
+---
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

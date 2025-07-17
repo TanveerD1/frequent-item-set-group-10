@@ -18,9 +18,12 @@ This project simulates supermarket transaction data and analyzes frequent itemse
 
 ## Key Findings
 
-1. **Frequent Itemsets**: The most commonly co-occurring items in our simulated data
+1. **Frequent Itemsets**: The most commonly co-occurring items in our simulated data are:
+   Cereal (16.2% support), Bread (15.97%), and Tea (15.93%) were most frequent.
 2. **Closed Itemsets**: Itemsets where no superset has the same support count
+   {Butter, Bread} (8.3% support) is closed—no superset shares the exact support.
 3. **Maximal Itemsets**: Itemsets that have no frequent supersets
+   {Chicken, Rice, Vegetables} (4.9% support) is maximal—no larger frequent combination exists.
 
 ## File Descriptions
 

@@ -7,7 +7,6 @@ support,itemsets,length
 0.15233333333333332,frozenset({'carrots'}),1
 0.162,frozenset({'cereal'}),1
 0.14833333333333334,frozenset({'cheese'}),1
-0.143,frozenset({'chicken'}),1
 0.15333333333333332,frozenset({'chocolate'}),1
 0.14733333333333334,frozenset({'coffee'}),1
 0.14933333333333335,frozenset({'cookies'}),1

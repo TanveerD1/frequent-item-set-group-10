@@ -1,10 +1,14 @@
 # Exploring Frequent Itemsets: Closed vs Maximal in Supermarket Data
 
-**Group XX**  
+**Group 10**  
 *Data Mining/Warehousing Course*
 
 ## Group Members
 
+- Tanveer 752
+- Calvin
+- Patricia
+- 
 
 ## Project Overview
 

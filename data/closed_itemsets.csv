@@ -28,3 +28,14 @@ support,itemsets,length
 0.15866666666666668,frozenset({'tomatoes'}),1
 0.14833333333333334,frozenset({'toothpaste'}),1
 0.147,frozenset({'yogurt'}),1
+0.15533333333333335,frozenset({'chicken', 'bread'}),2
+0.15266666666666667,frozenset({'bread', 'butter'} ),2
+0.15466666666666667,frozenset({'frozen_foods'}),
+0.15066666666666666,frozenset({'water'}),1
+0.142,frozenset({'wine'}),1 
+0.14666666666666667,frozenset({'vegetables'}),1
+0.14966666666666667,frozenset({'snacks'}),1 
+0.15533333333333335,frozenset({'nuts'}),1
+0.14866666666666667,frozenset({'spices'}),1
+0.15266666666666667,frozenset({'herbs'}),1
+0.15466666666666667,frozenset({'frozen_foods'}),1

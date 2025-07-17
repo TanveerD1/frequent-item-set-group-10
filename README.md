@@ -5,10 +5,12 @@
 
 ## Group Members
 
-- Tanveer 752
-- Calvin
-- Patricia
-- 
+- Tanveer Omar 752
+- Calvin Gacheru 670035
+- Patricia Kiarie
+- Arlen
+- Samantha Masaki
+- Suezzane
 
 ## Project Overview
 
@@ -31,7 +33,16 @@ This project simulates supermarket transaction data and analyzes frequent itemse
 ## How to Run
 
 1. Clone this repository
-2. Install required packages: `pip install pandas mlxtend`
+```bash
+git clone <https://github.com/TanveerD1/frequent-item-set-group-10.git>
+```
+2. Install required packages: 
+```bash
+pip install pandas mlxtend
+```
+   - Ensure you have Jupyter Notebook installed
+   - If not, install it using: `pip install jupyter`
+
 3. Run the Jupyter notebook: `jupyter notebook frequent_itemsets_analysis.ipynb`
 
 ## Example Insights
@@ -45,3 +56,8 @@ From our analysis, we found:
 - **Maximal Itemset Example**: {Chicken, Rice, Vegetables} with support 0.06
   - No larger combination including these items meets our support threshold
   - This represents the largest meaningful combination for this support level
+
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
